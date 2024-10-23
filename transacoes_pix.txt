@@ -1,0 +1,4483 @@
+[
+    {
+        "tipo": "CREDITO",
+        "valor": "178.00",
+        "data": "2024-10-01T06:30",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@CLELIA SILVA SOUTO|@***.496.398-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "153.00",
+        "data": "2024-10-01T06:50",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Talita Aparecida Serafini Vignoli de Car|@***.480.351-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "95.30",
+        "data": "2024-10-01T08:25",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Maria Candida Mendes|@***.109.651-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "250.00",
+        "data": "2024-10-01T08:33",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@WEILLA PEREIRA SOUSA|@***.276.441-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "39.95",
+        "data": "2024-10-01T09:04",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@CLAUDIA FERREIRA|@***.498.311-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "469.70",
+        "data": "2024-10-01T09:21",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Kelly Cristina Pinheiro Gerolin|@***.951.681-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "29.00",
+        "data": "2024-10-01T09:34",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Nubia da Silva Castro|@***.908.151-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "95.55",
+        "data": "2024-10-01T09:42",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@CRISTIANE L R FELIX|@***.965.728-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "47.49",
+        "data": "2024-10-01T10:06",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Hiago Antonio Barros Mendonca|@***.628.151-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "111.52",
+        "data": "2024-10-01T10:07",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@JOYCE ROSA DE ALENCAR|@***.532.971-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "18000.00",
+        "data": "2024-10-01T10:08",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX EMITIDO OUTRA IF - MESMA TIT.",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "00280549000187",
+        "descInfComplementar": "Pagamento Pix|@00.280.549 0001-87|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "6270.22",
+        "data": "2024-10-01T10:21",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Camila Carla Campos De Oliveira|@***.350.511-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "46.00",
+        "data": "2024-10-01T10:24",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Renatha Malena Passos Tavares|@***.746.921-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "0.94",
+        "data": "2024-10-01T10:28",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Renatha Malena Passos Tavares|@***.746.921-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "201.85",
+        "data": "2024-10-01T10:38",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@NEUSA HELENA BORGES CLEMENTE|@***.808.131-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "197.23",
+        "data": "2024-10-01T11:16",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Gabrielly Lima Miranda Reis|@***.020.031-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "10.41",
+        "data": "2024-10-01T12:24",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LUZIA DOURADO PEREIRA|@***.209.191-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "228.00",
+        "data": "2024-10-01T12:29",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LILIA VERONICA S CAMARGO|@***.643.581-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "136.70",
+        "data": "2024-10-01T12:35",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ELIZABETH CORDEIRO DE OLIVEIRA|@***.218.771-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "495.36",
+        "data": "2024-10-01T12:51",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@POLIANA C F Q SANCHEZ|@***.924.051-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "103.90",
+        "data": "2024-10-01T12:54",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@POLIANA C F Q SANCHEZ|@***.924.051-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "1646.00",
+        "data": "2024-10-01T13:25",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARCIA DA COSTA SANTOS|@***.383.191-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "54.64",
+        "data": "2024-10-01T14:04",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Jocinete Meira Marcondes|@***.592.841-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "91.68",
+        "data": "2024-10-01T14:05",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Jocinete Meira Marcondes|@***.592.841-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "143.91",
+        "data": "2024-10-01T14:06",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Jocinete Meira Marcondes|@***.592.841-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "189.90",
+        "data": "2024-10-01T14:19",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARIELLY LIMA CABRAL|@***.342.231-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "107.00",
+        "data": "2024-10-01T14:32",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@PAULIANO AYRES SIQUEIRA BELEM|@***.951.501-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "63.00",
+        "data": "2024-10-01T14:43",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "55929040000104",
+        "descInfComplementar": "Recebimento Pix|@55.929.040 FLAVIO HENRIQUE FERNANDES DA|@55.929.040 0001-04|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "219.60",
+        "data": "2024-10-01T15:06",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LESSANIA DE SOUSA BARROS|@***.431.601-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "110.00",
+        "data": "2024-10-01T15:51",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MAURO ESCOBAR|@***.686.271-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "202.00",
+        "data": "2024-10-01T15:55",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@FABIANA COSTA REGO|@***.446.391-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "139.00",
+        "data": "2024-10-01T16:03",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@DEIZE KELLER BRUM|@***.490.181-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "595.38",
+        "data": "2024-10-01T16:22",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ANGELICA PIRES MONCAO DE OLIVEIRA|@***.910.801-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "247.00",
+        "data": "2024-10-01T16:23",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ADRIANA SALES BORGES|@***.932.171-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "197.19",
+        "data": "2024-10-01T17:01",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ROSA DOS SANTOS MORAIS|@***.978.831-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "133.00",
+        "data": "2024-10-01T17:13",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARIA JOSE DE ALVARENGA|@***.223.531-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "111.00",
+        "data": "2024-10-01T19:36",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ANA CAROLINE DOS SANTOS REIMER|@***.651.641-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "128.00",
+        "data": "2024-10-01T21:14",
+        "dataLote": "2024-10-01",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@VITORIA V DA SILVA|@***.711.841-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "607.50",
+        "data": "2024-10-02T07:42",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "50249360000108",
+        "descInfComplementar": "Recebimento Pix|@A. C. M. MONTECCHI|@50.249.360 0001-08|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "177.00",
+        "data": "2024-10-02T08:25",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Rosineia Ribeiro Neves|@***.405.491-**|@2 7 parcela"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "114.58",
+        "data": "2024-10-02T08:58",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@TAIANA SANTOS BOYDA|@***.387.091-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "1338.00",
+        "data": "2024-10-02T09:06",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ROSANGELA AMANCIO PEREIRA|@***.425.151-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "242.00",
+        "data": "2024-10-02T09:20",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@JAQUELINE DIAS FERREIRA|@***.080.401-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "522.00",
+        "data": "2024-10-02T09:23",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@RENATA MORAIS FEITOSA|@***.468.601-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "236.12",
+        "data": "2024-10-02T10:31",
+        "dataLote": "2024-10-02",
+        "descricao": "TRANSF.RECEBIDA - PIX SICOOB",
+        "numeroDocumento": "6638977",
+        "descInfComplementar": "REM.: LUECI ATAIDES DA SILVA|@Transferência Pix|@LUECI ATAIDES DA SILVA|@***.527.031-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "165.92",
+        "data": "2024-10-02T10:51",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Isadora Milleny Ribeiro Rodrigues|@***.853.381-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "59.00",
+        "data": "2024-10-02T11:28",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@EDINA FERREIRA DOS SANTOS|@***.111.071-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "119.00",
+        "data": "2024-10-02T11:41",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MAYARA DOS SANTOS MIRANDA|@***.928.221-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "106.00",
+        "data": "2024-10-02T12:11",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@EDNA B A MOREIRA|@***.250.321-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "1043.00",
+        "data": "2024-10-02T12:34",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@SAUL DOS REIS CAMARGO|@***.294.511-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "153.40",
+        "data": "2024-10-02T12:54",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARIA GERALDA D CAROLINA|@***.647.911-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "178.00",
+        "data": "2024-10-02T13:13",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@VANDA P DE AZEVEDO|@***.358.611-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "153.23",
+        "data": "2024-10-02T13:49",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Brenda Patrizze Lima da Silva|@***.509.551-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "109.00",
+        "data": "2024-10-02T15:13",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Lucas Santos Barreira|@***.391.321-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "121.00",
+        "data": "2024-10-02T15:15",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@DOMINGAS PEREIRA DA SILVA|@***.495.801-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "425.89",
+        "data": "2024-10-02T15:24",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Amanda Alves da Silva|@***.602.051-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "63.80",
+        "data": "2024-10-02T16:36",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@SIRLENE APARECIDA DA CUNHA SANTOS|@***.071.491-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "105.42",
+        "data": "2024-10-02T16:37",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Jocinete Meira Marcondes|@***.592.841-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "989.39",
+        "data": "2024-10-02T16:45",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@NATHALIA A FREITAS DINIZ|@***.440.131-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "9.80",
+        "data": "2024-10-02T17:15",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Jocinete Meira Marcondes|@***.592.841-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "300.00",
+        "data": "2024-10-02T18:00",
+        "dataLote": "2024-10-02",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Karem Crisley Silva Braga|@***.120.311-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "65.00",
+        "data": "2024-10-03T08:20",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ANITA TEREZINHA P MACHADO|@***.843.730-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "93.00",
+        "data": "2024-10-03T09:09",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LIANE ROSENI SCHIRMBCK|@***.892.901-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "174.00",
+        "data": "2024-10-03T09:32",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@CRISTIANE MORAES FARIAS|@***.698.051-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "275.00",
+        "data": "2024-10-03T09:34",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@KENIA NEGRI DA SILVA OLIVEIRA|@***.442.261-**|@Kenia"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "436.00",
+        "data": "2024-10-03T10:12",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "40349925000167",
+        "descInfComplementar": "Recebimento Pix|@A K M Duarte|@40.349.925 0001-67|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "230.00",
+        "data": "2024-10-03T10:16",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MIRELLE PEREIRA ALVES|@***.987.741-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "400.00",
+        "data": "2024-10-03T10:16",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Adriana Colaco Ormeneze Santos|@***.758.101-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "502.14",
+        "data": "2024-10-03T10:20",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "03201268000180",
+        "descInfComplementar": "Pagamento Pix|@03.201.268 0001-80|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "136.74",
+        "data": "2024-10-03T10:31",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Amanda Alves da Silva|@***.602.051-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "95.00",
+        "data": "2024-10-03T11:42",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@KESIA DAIZY MARQUES COSTA BARBOSA|@***.001.371-**|@Deus Abencoe"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "74.00",
+        "data": "2024-10-03T13:04",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ANA CELIA DE CARVALHO|@***.934.191-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "335.00",
+        "data": "2024-10-03T14:40",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@RAFAELA CHAPADENSE BARBOSA|@***.437.061-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "724.00",
+        "data": "2024-10-03T16:16",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@FABIOLA STEFANI|@***.371.301-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "213.48",
+        "data": "2024-10-03T16:17",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@PAULA NAYARA OLIVEIRA CORREA|@***.019.241-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "199.00",
+        "data": "2024-10-03T16:26",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "22605608000182",
+        "descInfComplementar": "Recebimento Pix|@VALTUIR DE QUEIROZ RODRIGUES - ME|@22.605.608 0001-82|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "54.00",
+        "data": "2024-10-03T17:24",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MAURO ANTONIO DE CAMPOS|@***.686.191-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "251.00",
+        "data": "2024-10-03T17:35",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@EDUARDA CAROLINA MOTA VASCONCELOS|@***.036.831-**|@Pagamento referente aos carnes parcela 2|@6 com vencimento em 15 10 24 valor 173,"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "183.00",
+        "data": "2024-10-03T17:51",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "21721224000162",
+        "descInfComplementar": "Recebimento Pix|@STHEFANY A PARREIRA - ME|@21.721.224 0001-62|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "200.00",
+        "data": "2024-10-03T18:25",
+        "dataLote": "2024-10-03",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARCUS VINICIUS CLEMENTE|@***.463.751-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "440.00",
+        "data": "2024-10-04T08:26",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@SANDRA REGINA MARTINS LEAO LOPES|@***.300.201-**|@Referente parcelas do mes de outubro"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "4.00",
+        "data": "2024-10-04T08:30",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@SANDRA REGINA MARTINS LEAO LOPES|@***.300.201-**|@Restante das parcelas"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "114.00",
+        "data": "2024-10-04T08:50",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Wanderson Higino da Silva|@***.431.701-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "103.00",
+        "data": "2024-10-04T08:56",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ADRIANA KARINA LIRA DA SILVA|@***.457.911-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "64.80",
+        "data": "2024-10-04T09:07",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Ionara De Lima Batista|@***.598.163-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "189.50",
+        "data": "2024-10-04T09:25",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@DEIZE KELLER BRUM|@***.490.181-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "1000.00",
+        "data": "2024-10-04T09:35",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX EMITIDO OUTRA IF - MESMA TIT.",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "00280549000187",
+        "descInfComplementar": "Pagamento Pix|@00.280.549 0001-87|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "3000.00",
+        "data": "2024-10-04T09:44",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX EMITIDO OUTRA IF - MESMA TIT.",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "00280549000187",
+        "descInfComplementar": "Pagamento Pix|@00.280.549 0001-87|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "86.00",
+        "data": "2024-10-04T10:15",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Ludmilla Luiza Arruda|@***.619.431-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "95.00",
+        "data": "2024-10-04T10:17",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@DJANIRA GONCALVES DE FARIA|@***.282.601-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "228.02",
+        "data": "2024-10-04T10:23",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARCIO ANTONIO DE OLIVEIRA|@***.968.211-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "188.00",
+        "data": "2024-10-04T10:49",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ANA CELIA DE CARVALHO|@***.934.191-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "173.81",
+        "data": "2024-10-04T10:55",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ARIAN PAULO DE ALMEIDA MORAES|@***.378.231-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "58.00",
+        "data": "2024-10-04T10:55",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ANA CELIA DE CARVALHO|@***.934.191-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "194.00",
+        "data": "2024-10-04T10:58",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ROSANGELA CAVALCANTE|@***.878.001-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "163.70",
+        "data": "2024-10-04T11:24",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Yonara Roberta Silva Pereira Rocha|@***.111.861-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "284.00",
+        "data": "2024-10-04T11:25",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Yonara Roberta Silva Pereira Rocha|@***.111.861-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "74.90",
+        "data": "2024-10-04T11:36",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Claudia Duarte Alves|@***.447.381-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "110.00",
+        "data": "2024-10-04T11:49",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@HUMBERTO SILVA SANTOS|@***.355.491-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "591.42",
+        "data": "2024-10-04T12:24",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MAMEDIA NANCY A AMORIM|@***.939.651-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "159.08",
+        "data": "2024-10-04T12:39",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@PAULIANO AYRES SIQUEIRA BELEM|@***.951.501-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "20.00",
+        "data": "2024-10-04T13:20",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "42198963000191",
+        "descInfComplementar": "Pagamento Pix|@42.198.963 0001-91|@Racao mel"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "106.00",
+        "data": "2024-10-04T14:08",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LUZIMEIRE DUARTE SARAIVA|@***.343.871-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "108.00",
+        "data": "2024-10-04T14:31",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LEILANI CLAUDIA ALVES DA SILVA|@***.614.136-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "73.00",
+        "data": "2024-10-04T14:42",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Andreia Pereira Nazario Ferreira|@***.688.891-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "287.83",
+        "data": "2024-10-04T15:36",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@KAMYLA SANTOS DE ALMEIDA|@***.614.141-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "500.00",
+        "data": "2024-10-04T15:56",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Ana Julia Gomes da Silva|@***.949.801-**|@ATREVIDINHAMO"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "1000.00",
+        "data": "2024-10-04T16:34",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@BLAINY DANILO M BARBOSA|@***.117.791-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "73.00",
+        "data": "2024-10-04T16:44",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Hayriene Luz Amorim|@***.036.861-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "1313.59",
+        "data": "2024-10-04T17:06",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.208.891-**|@Pagamento 09 24"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "1006.10",
+        "data": "2024-10-04T17:08",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.822.101-**|@Pagamento 09 24"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "1841.18",
+        "data": "2024-10-04T17:12",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.512.741-**|@Pagamento 09 24"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "1508.76",
+        "data": "2024-10-04T17:13",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.567.901-**|@Pagamento 09 24"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "371.09",
+        "data": "2024-10-04T17:15",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.393.823-**|@Pagamento 09 24"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "791.78",
+        "data": "2024-10-04T17:19",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.517.881-**|@Pagamento 09 24"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "969.13",
+        "data": "2024-10-04T17:23",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.075.671-**|@Pagamento 09 24"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "3340.04",
+        "data": "2024-10-04T17:24",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.750.111-**|@Pagamento 09 24"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "467.29",
+        "data": "2024-10-04T17:27",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.439.401-**|@Pagamento 09 24"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "1600.31",
+        "data": "2024-10-04T17:28",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.498.311-**|@Pagamento 09 24"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "6.48",
+        "data": "2024-10-04T17:40",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LEILANI CLAUDIA ALVES DA SILVA|@***.614.136-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "500.00",
+        "data": "2024-10-04T17:42",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@FRANCISCA MENEZES DA SILVA FREITAS|@***.932.941-**|@Bermudas"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "500.00",
+        "data": "2024-10-04T17:59",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Jessica Pereira dos Santos|@***.652.141-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "270.00",
+        "data": "2024-10-04T17:59",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "27244867000149",
+        "descInfComplementar": "Recebimento Pix|@Usley C Correia Farmacia|@27.244.867 0001-49|@kamila"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "233.57",
+        "data": "2024-10-04T18:37",
+        "dataLote": "2024-10-04",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.111.861-**|@Pagamento 09 24"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "66.00",
+        "data": "2024-10-07T00:00",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@SINARA M SILVA JUNQUEIRA|@***.998.111-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "44.00",
+        "data": "2024-10-07T00:00",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LIDIA DE CASTRO FERNANDES|@***.604.871-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "313.40",
+        "data": "2024-10-07T00:00",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "44783609000150",
+        "descInfComplementar": "Recebimento Pix|@Pop Agua Boa Produtos Agropecuarios Ltda|@44.783.609 0001-50|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "698.00",
+        "data": "2024-10-07T00:00",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ANDRESSA PATRICIA CORREA DE MORAES|@***.356.701-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "111.00",
+        "data": "2024-10-07T00:00",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@JULIANA NERES SANTANA|@***.903.321-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "100.00",
+        "data": "2024-10-07T00:00",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@VANDA PERILLO DE AZEVEDO|@***.358.611-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "522.20",
+        "data": "2024-10-07T00:00",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@JACQUELINE ELIZABEL STOCCO SIA|@***.609.768-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "119.00",
+        "data": "2024-10-07T00:00",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Grasielly Bessa Pereira Lima|@***.058.571-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "79.00",
+        "data": "2024-10-07T00:00",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@KATIA DE SOUSA NOBRE|@***.998.461-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "43.00",
+        "data": "2024-10-07T00:00",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "17528031000112",
+        "descInfComplementar": "Recebimento Pix|@Adeilton De Souza Silva|@17.528.031 0001-12|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "299.00",
+        "data": "2024-10-07T00:00",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ROMILDO FARIAS ALVES|@***.156.971-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "170.00",
+        "data": "2024-10-07T00:00",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LEILA REGINA FERREIRA DE MOURA|@***.541.421-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "280.00",
+        "data": "2024-10-07T00:00",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@JULIANA APARECIDA DE MOURA|@***.664.621-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "53.00",
+        "data": "2024-10-07T00:00",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@RUTH DE SOUSA REZENDE|@***.021.431-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "144.00",
+        "data": "2024-10-07T00:00",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@JANNE GOMES BARRETO|@***.474.881-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "150.00",
+        "data": "2024-10-07T00:00",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.001.951-**|@Pagamento diaria"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "57.00",
+        "data": "2024-10-07T07:43",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Carla Mara Carvalho Sanches|@***.116.811-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "652.00",
+        "data": "2024-10-07T08:25",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Maria Lucia Ribeiro Da Silva|@***.209.891-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "223.62",
+        "data": "2024-10-07T09:10",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Raquel Matos de Sousa|@***.797.651-**|@ATREVIDINHAMO"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "223.62",
+        "data": "2024-10-07T09:11",
+        "dataLote": "2024-10-07",
+        "descricao": "DÉBITO DEVOLUÇÃO PIX",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Devolução Pix|@***.797.651-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "223.62",
+        "data": "2024-10-07T09:19",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Raquel Matos de Sousa|@***.797.651-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "149.00",
+        "data": "2024-10-07T09:40",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@FERNANDO H MACIEL FREITAS|@***.385.951-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "2154.40",
+        "data": "2024-10-07T09:53",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@REJANE DE SOUZA BARROS|@***.226.541-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "169.20",
+        "data": "2024-10-07T10:01",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@IARA REGINA MARTINS DOS SANTOS|@***.554.218-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "28000.00",
+        "data": "2024-10-07T10:03",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX EMITIDO OUTRA IF - MESMA TIT.",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "00280549000187",
+        "descInfComplementar": "Pagamento Pix|@00.280.549 0001-87|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "215.00",
+        "data": "2024-10-07T10:13",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@CASSIA DA SILVA OLIVEIRA|@***.151.525-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "1500.00",
+        "data": "2024-10-07T10:17",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@SIMONE A SILVA|@***.754.901-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "58.00",
+        "data": "2024-10-07T10:22",
+        "dataLote": "2024-10-07",
+        "descricao": "TRANSF.RECEBIDA - PIX SICOOB",
+        "numeroDocumento": "6651903",
+        "descInfComplementar": "REM.: SORAY RAMOS FERREIRA MORAES|@Transferência Pix|@SORAY RAMOS FERREIRA MORAES|@***.958.701-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "129.00",
+        "data": "2024-10-07T10:33",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Jhany Franciele Alves Vilas Boas|@***.717.761-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "74.00",
+        "data": "2024-10-07T10:51",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ROSANGELA SANTOS DA SILVA|@***.682.471-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "146.00",
+        "data": "2024-10-07T11:19",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARIANA MOREIRA DA SILVA ABREU|@***.602.391-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "144.00",
+        "data": "2024-10-07T11:29",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@JESSICA DOURADO CARVALHO VILELA|@***.034.471-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "134.00",
+        "data": "2024-10-07T11:33",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@CARLA MONIQUE MONTEIRO BORGES|@***.649.821-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "53.70",
+        "data": "2024-10-07T11:59",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ELYCA BORGES DA SILVA|@***.878.491-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "103.00",
+        "data": "2024-10-07T12:25",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ALESSANDRA DINA DE ABREU FERREIRA VILELA|@***.341.231-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "53.00",
+        "data": "2024-10-07T12:42",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LUCIANA MARTINS MIRANDA MORBECK|@***.204.991-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "116.00",
+        "data": "2024-10-07T12:47",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARIA DIVINA FERREIRA DE SOUSA|@***.550.171-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "5.90",
+        "data": "2024-10-07T13:16",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Rafael Maciel Toledo|@***.242.141-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "98.00",
+        "data": "2024-10-07T13:22",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@TEREZINHA BARBOSA DE SOUSA MARTINS|@***.776.141-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "160.00",
+        "data": "2024-10-07T13:46",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@GISLEIA DIAS FERREIRA|@***.335.611-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "250.00",
+        "data": "2024-10-07T14:45",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ANDRIA NUNES DA SILVA|@***.723.041-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "124.46",
+        "data": "2024-10-07T15:32",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Phelipe Valoes Queiroz|@***.788.011-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "218.00",
+        "data": "2024-10-07T15:35",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Lucas Santos Barreira|@***.391.321-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "51.00",
+        "data": "2024-10-07T15:50",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@TANIA MARA BOGUE|@***.475.281-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "39.00",
+        "data": "2024-10-07T15:58",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ALMERINDA BEZERRA SOARES|@***.147.131-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "206.04",
+        "data": "2024-10-07T16:27",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@IZAURA ALMEIDA NASCIMENTO|@***.145.401-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "147.00",
+        "data": "2024-10-07T16:29",
+        "dataLote": "2024-10-07",
+        "descricao": "DÉBITO DEVOLUÇÃO PIX",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Devolução Pix|@***.145.401-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "147.00",
+        "data": "2024-10-07T16:36",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@IZAURA ALMEIDA NASCIMENTO|@***.145.401-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "114.00",
+        "data": "2024-10-07T16:48",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Renata Sena da Cunha Ribeiro|@***.766.281-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "312.67",
+        "data": "2024-10-07T16:55",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@TELDIMA ALVES CORDEIRO|@***.117.301-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "64.40",
+        "data": "2024-10-07T16:57",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "41538689000190",
+        "descInfComplementar": "Pagamento Pix|@41.538.689 0001-90|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "43.00",
+        "data": "2024-10-07T17:16",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@SIRLENE APARECIDA DA CUNHA SANTOS|@***.071.491-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "197.70",
+        "data": "2024-10-07T17:28",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "15436940000103",
+        "descInfComplementar": "Pagamento Pix|@15.436.940 0001-03|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "51.00",
+        "data": "2024-10-07T17:43",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@HERIKA MEDRADO COSTA|@***.701.841-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "157.00",
+        "data": "2024-10-07T17:52",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ROSA DOS SANTOS MORAIS|@***.978.831-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "224.80",
+        "data": "2024-10-07T17:52",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Nathalia Mendes Ribeiro Horita|@***.245.338-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "117.00",
+        "data": "2024-10-07T17:57",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ADRIANY HEVELLY DE LIMA MAGGI|@***.942.001-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "136.70",
+        "data": "2024-10-07T18:22",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@POLLIANA LUZ SALES SILVA|@***.195.011-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "125.00",
+        "data": "2024-10-07T18:41",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "04094380000121",
+        "descInfComplementar": "Recebimento Pix|@Contabilidade Laura Vicunna Ltda|@04.094.380 0001-21|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "337.00",
+        "data": "2024-10-07T19:35",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARIA DE LOURDES SCARELLO|@***.569.451-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "98.00",
+        "data": "2024-10-07T19:48",
+        "dataLote": "2024-10-07",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ANA CELIA DE CARVALHO|@***.934.191-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "314.00",
+        "data": "2024-10-08T08:13",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ROGERIO MENDONCA FRANCA|@***.089.601-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "43.00",
+        "data": "2024-10-08T08:33",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@RITA M FERREIRA ATALLAH|@***.061.901-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "94.00",
+        "data": "2024-10-08T08:39",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@IVANILCE ABREU A OLIVEIRA|@***.010.071-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "55.00",
+        "data": "2024-10-08T08:45",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@NOEMI SELMA DA SILVA PEREIRA GONCALVES|@***.111.851-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "36.00",
+        "data": "2024-10-08T09:23",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@GIOVANA BESERRA PASSOS|@***.156.281-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "60.07",
+        "data": "2024-10-08T09:28",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MONICA CRISTINA SANTOS|@***.769.261-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "245.90",
+        "data": "2024-10-08T09:28",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LEANDRO DANTAS ARAUJO|@***.686.791-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "450.71",
+        "data": "2024-10-08T09:32",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@JESSICA VILELLA SANTOS|@***.305.101-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "59.70",
+        "data": "2024-10-08T09:35",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@NEUSIVAINE LIMA DA SILVA|@***.711.011-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "92.00",
+        "data": "2024-10-08T10:08",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Polyana Da Silva Nascimento|@***.975.601-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "2.15",
+        "data": "2024-10-08T10:19",
+        "dataLote": "2024-10-08",
+        "descricao": "DÉBITO DEVOLUÇÃO PIX",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Devolução Pix|@***.942.001-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "143.05",
+        "data": "2024-10-08T11:24",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ISIS RIBEIRO SILVA|@***.683.611-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "87.91",
+        "data": "2024-10-08T11:32",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@VANESSA RODRIGUES DE ALMEIDA|@***.183.841-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "140.00",
+        "data": "2024-10-08T11:38",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Raquel Rodrigues do Nascimento|@***.395.401-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "172.00",
+        "data": "2024-10-08T12:04",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ADRIAN ROSA FORTES|@***.577.471-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "221.00",
+        "data": "2024-10-08T12:25",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Andressa Patricia Correa de Moraes|@***.356.701-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "94.00",
+        "data": "2024-10-08T13:18",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LANI NASCIMENTO SANTOS|@***.624.501-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "332.00",
+        "data": "2024-10-08T13:50",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ELAINE CRISTINA NAVARRO|@***.525.171-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "204.00",
+        "data": "2024-10-08T14:23",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Carolliny Oliveira Viana|@***.356.721-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "85.70",
+        "data": "2024-10-08T14:30",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Mirley Cristiane Fernandes Silva|@***.662.496-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "208.90",
+        "data": "2024-10-08T14:33",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@NEIDE COELHO MAGRINI|@***.233.801-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "59.00",
+        "data": "2024-10-08T14:45",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Gabriel Freitas Silva|@***.610.101-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "164.50",
+        "data": "2024-10-08T14:49",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Geicilene Santos Marques|@***.082.911-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "225.91",
+        "data": "2024-10-08T15:38",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LUCILENE NAVES DE OLIVEIRA|@***.208.061-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "311.87",
+        "data": "2024-10-08T16:01",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ANA PAULA NASCENTE MATIAS|@***.862.431-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "180.87",
+        "data": "2024-10-08T16:08",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@FERNANDA PEREIRA QUEIROZ|@***.381.181-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "2.86",
+        "data": "2024-10-08T16:33",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@IVANILCE ABREU A OLIVEIRA|@***.010.071-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "280.00",
+        "data": "2024-10-08T16:41",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Yonara Roberta Silva Pereira Rocha|@***.111.861-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "670.00",
+        "data": "2024-10-08T16:54",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ANJESSICA LOPES FULLIN|@***.426.041-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "43.00",
+        "data": "2024-10-08T17:21",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Shara Alauana Ribeiro de Matos|@***.610.751-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "43.00",
+        "data": "2024-10-08T17:43",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@VERA LUCIA AGUIAR VIANA|@***.743.021-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "155.69",
+        "data": "2024-10-08T17:54",
+        "dataLote": "2024-10-08",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@CLEUZA SILVA DE OLIVEIRA|@***.477.701-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "113.00",
+        "data": "2024-10-09T07:47",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "43447202000199",
+        "descInfComplementar": "Recebimento Pix|@FB COMERCIO DE COMBUSTIVEIS LTDA|@43.447.202 0001-99|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "72.00",
+        "data": "2024-10-09T08:25",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Inelzilia Gomes Rezende|@***.437.551-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "99.00",
+        "data": "2024-10-09T08:27",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@JOSE CARLOS CORDEIRO GOMES|@***.109.071-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "88.00",
+        "data": "2024-10-09T08:55",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@GERLANE FERNANDES DA SILVA|@***.769.981-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "71.00",
+        "data": "2024-10-09T09:06",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@RENATA CORREIA RODRIGUES CHRISTOVAM|@***.773.651-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "259.90",
+        "data": "2024-10-09T09:52",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MINEIA CABRERA MACHADO AL|@***.611.148-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "63.00",
+        "data": "2024-10-09T10:17",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ANALIA LOPES DA ROCHA|@***.758.301-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "52.00",
+        "data": "2024-10-09T10:21",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@FABIOLA DOMINGOS CHAVES DOS SANTOS|@***.522.161-**|@Parcela 14"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "83.00",
+        "data": "2024-10-09T10:51",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@RICARDO SEVERINO DA SILVA|@***.831.816-**|@PARCELA OUTUBRO"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "160.84",
+        "data": "2024-10-09T10:53",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ALINE GOMES ASCHIDAMINI|@***.700.461-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "200.00",
+        "data": "2024-10-09T10:54",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Deisy Patricia Santos Oliveira|@***.849.031-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "128.03",
+        "data": "2024-10-09T11:19",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@CILENI FRANCISCA DE MORAIS|@***.796.661-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "284.90",
+        "data": "2024-10-09T11:49",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Luzia Oliveira Lopes|@***.984.711-**|@ATREVIDINHAMO"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "72.00",
+        "data": "2024-10-09T12:58",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Brendah Alves de Sousa|@***.667.441-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "498.00",
+        "data": "2024-10-09T14:13",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Huelto Alves de Lima|@***.719.181-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "73.00",
+        "data": "2024-10-09T15:29",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@CAMILA ALMEIDA MELO|@***.171.721-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "1012.85",
+        "data": "2024-10-09T16:03",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ANDREIA DA MATA  MARTINS|@***.779.931-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "178.00",
+        "data": "2024-10-09T17:59",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Yonara Roberta Silva Pereira Rocha|@***.111.861-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "229.37",
+        "data": "2024-10-09T18:10",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Flavia Pascoala Wehren|@***.602.391-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "77.00",
+        "data": "2024-10-09T18:17",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@FRANCIELLY A A UTSUNOMYA|@***.989.701-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "256.00",
+        "data": "2024-10-09T18:38",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@FABIANA ALVES REZENDE|@***.877.301-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "104.00",
+        "data": "2024-10-09T18:45",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ALEXSANDRA P S SOUZA|@***.401.801-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "155.00",
+        "data": "2024-10-09T18:47",
+        "dataLote": "2024-10-09",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ALEXSANDRA P S SOUZA|@***.401.801-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "1504.00",
+        "data": "2024-10-10T06:24",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@VIVIANI MAGALHAES S Q GONCALVE|@***.423.026-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "113.93",
+        "data": "2024-10-10T08:35",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Hermenegildo Queiroz Goncalves|@***.572.278-**|@Viviani Magalhaes"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "107.28",
+        "data": "2024-10-10T09:16",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ANA P M CARVALHO|@***.350.551-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "25000.00",
+        "data": "2024-10-10T09:22",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX EMITIDO OUTRA IF - MESMA TIT.",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "00280549000187",
+        "descInfComplementar": "Pagamento Pix|@00.280.549 0001-87|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "629.82",
+        "data": "2024-10-10T09:46",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@IZOLDINA NETO DE ASSUNCAO NUNES|@***.100.081-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "56.00",
+        "data": "2024-10-10T09:57",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Luciana Oliveira De Araujo|@***.051.711-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "85.00",
+        "data": "2024-10-10T10:42",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Djullia Oliveira Sobrinho|@***.923.578-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "575.00",
+        "data": "2024-10-10T11:07",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@TASSIA MARQUES ANTILLON|@***.132.311-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "151.00",
+        "data": "2024-10-10T11:43",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ALANA DIAS SILVA|@***.922.071-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "380.00",
+        "data": "2024-10-10T11:51",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@SIMARIA CARDOSO PORTO MARQUES|@***.924.251-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "52.00",
+        "data": "2024-10-10T11:53",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@SIMARIA CARDOSO PORTO MARQUES|@***.924.251-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "55.00",
+        "data": "2024-10-10T12:27",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@DEUSELINA SANTOS SILVA|@***.019.131-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "95.32",
+        "data": "2024-10-10T13:40",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@EDNA SENA DE LIMA|@***.781.541-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "55.90",
+        "data": "2024-10-10T14:12",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ALESSANDRA OLIVEIRA ATANAZIO|@***.871.261-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "65.65",
+        "data": "2024-10-10T14:29",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Milena do Nascimento Lima|@***.308.861-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "256.57",
+        "data": "2024-10-10T15:00",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Mayza Feliciana Merino|@***.829.378-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "389.00",
+        "data": "2024-10-10T15:29",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "53987643000137",
+        "descInfComplementar": "Recebimento Pix|@53.987.643 SIMONE MARQUES DO NASCIMENTO|@53.987.643 0001-37|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "115.49",
+        "data": "2024-10-10T15:43",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@PAULA CRISTINA CAVALCANTE DOS SANTOS|@***.049.191-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "186.00",
+        "data": "2024-10-10T15:46",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LUCILENE MODESTO DA SILVA|@***.464.241-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "100.00",
+        "data": "2024-10-10T15:57",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Maria Madalena Adonias Lopes Fullin|@***.096.111-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "478.64",
+        "data": "2024-10-10T16:41",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@SILVIA DA SILVA COSTA|@***.313.961-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "154.00",
+        "data": "2024-10-10T17:09",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Kayky Alves Fonseca Rodrigues|@***.743.771-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "107.91",
+        "data": "2024-10-10T17:32",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@IZOLDINA NETO DE ASSUNCAO NUNES|@***.100.081-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "54.80",
+        "data": "2024-10-10T18:03",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@GRAZIELA BARBOZA VILARINHO ABREU|@***.995.991-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "75.00",
+        "data": "2024-10-10T18:50",
+        "dataLote": "2024-10-10",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Cinthya Morais Leite|@***.768.751-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "237.60",
+        "data": "2024-10-11T08:14",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Alice Fernandes Borges|@***.903.191-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "252.98",
+        "data": "2024-10-11T09:51",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@DAVI OLIVEIRA SENA|@***.984.391-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "324.00",
+        "data": "2024-10-11T09:51",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MAGDA SOUSA SILVA|@***.522.081-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "121.74",
+        "data": "2024-10-11T09:53",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Izuleide Morais Rosa Marques|@***.880.131-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "79.34",
+        "data": "2024-10-11T09:55",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "01616929000102",
+        "descInfComplementar": "Pagamento Pix|@01.616.929 0001-02|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "485.00",
+        "data": "2024-10-11T10:05",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "42177486000188",
+        "descInfComplementar": "Recebimento Pix|@AGRO FINTECH|@42.177.486 0001-88|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "79.32",
+        "data": "2024-10-11T10:35",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Maricelia Ferreira da Silva|@***.607.881-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "169.00",
+        "data": "2024-10-11T10:47",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LAZARA ADRIELLE BASTOS MORAES|@***.905.421-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "69.80",
+        "data": "2024-10-11T10:57",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Paula Cristina Pereira dos Santos|@***.039.831-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "177.00",
+        "data": "2024-10-11T11:32",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Rosineia Ribeiro Neves|@***.405.491-**|@3 7 parcela venc 09 11"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "73.00",
+        "data": "2024-10-11T13:06",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@DANYELLE RODRIGUES DIAS CAMPOS|@***.460.081-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "1163.10",
+        "data": "2024-10-11T13:08",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@EMILY LEIDY ROCHA DUARTE|@***.328.061-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "379.00",
+        "data": "2024-10-11T13:12",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@IARA REGINA MARTINS DOS SANTOS|@***.554.218-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "345.42",
+        "data": "2024-10-11T13:51",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LUCILENE RODRIGUES DE CASTRO SILVA|@***.114.011-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "231.85",
+        "data": "2024-10-11T13:53",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Elka da Silva Aguiar Santos|@***.956.781-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "54.00",
+        "data": "2024-10-11T14:25",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@REGINALDO PEREIRA DA SILVA|@***.136.771-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "98.72",
+        "data": "2024-10-11T14:52",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Ligia Patricia Gomes Correa de Moraes|@***.113.901-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "179.90",
+        "data": "2024-10-11T15:30",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@VINICIUS PEREIRA MARTINS|@***.035.421-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "1050.00",
+        "data": "2024-10-11T15:35",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@APARECIDA BRITO PONTES|@***.929.991-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "14.00",
+        "data": "2024-10-11T15:36",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@APARECIDA BRITO PONTES|@***.929.991-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "662.08",
+        "data": "2024-10-11T16:01",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "26586455000124",
+        "descInfComplementar": "Recebimento Pix|@J. S. SOUZA LTDA|@26.586.455 0001-24|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "119.00",
+        "data": "2024-10-11T16:12",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@GRAZIELA BARBOZA VILARINHO ABREU|@***.995.991-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "163.80",
+        "data": "2024-10-11T16:30",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Evrilly Victoria Marques Clemente|@***.696.711-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "1816.10",
+        "data": "2024-10-11T16:35",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@TALITA DIAS DE CAMPOS|@***.068.801-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "5000.00",
+        "data": "2024-10-11T17:02",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "42666078000190",
+        "descInfComplementar": "Pagamento Pix|@42.666.078 0001-90|@Pagamento 2 parte projeto imovel"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "113.00",
+        "data": "2024-10-11T17:12",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ALESSANDRA DE SOUSA TAVARES|@***.020.291-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "150.00",
+        "data": "2024-10-11T17:17",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ALESSANDRA DE SOUSA TAVARES|@***.020.291-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "54.90",
+        "data": "2024-10-11T17:27",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@EDUARDA CAROLINA MOTA VASCONCELOS|@***.036.831-**|@Pagamento parcela 1 6 com vencimento em|@10 10 24"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "72.00",
+        "data": "2024-10-11T17:44",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@JOAO VITOR OLIVEIRA SILVA|@***.146.501-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "60.70",
+        "data": "2024-10-11T18:06",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LAURA R R B F SILVA|@***.673.771-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "118.05",
+        "data": "2024-10-11T18:16",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Weslei Ferreira Wanderley|@***.804.011-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "379.00",
+        "data": "2024-10-11T20:51",
+        "dataLote": "2024-10-11",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Loana de Souza Brito|@***.267.261-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "33.00",
+        "data": "2024-10-14T00:00",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Adrielly de Franca Rosa|@***.350.151-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "58.30",
+        "data": "2024-10-14T00:00",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ALUANA CORREIA DA SILVA|@***.233.101-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "127.30",
+        "data": "2024-10-14T07:19",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Olimpia Alves de Melo|@***.039.101-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "48.00",
+        "data": "2024-10-14T08:03",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Fernanda Oliveira Teles|@***.791.761-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "210.00",
+        "data": "2024-10-14T08:39",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LEVI FERREIRA DOS SANTOS|@***.791.121-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "46.00",
+        "data": "2024-10-14T08:56",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@RENATHA MALENA PASSOS|@***.746.921-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "224.00",
+        "data": "2024-10-14T09:32",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@BRUNO CUNHA SILVA|@***.387.601-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "116.00",
+        "data": "2024-10-14T09:56",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@JOSE RAFAEL DA SILVA JUNIOR|@***.636.802-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "191.66",
+        "data": "2024-10-14T11:01",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@DENIA PATRICIA ROSA SANTOS|@***.627.381-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "197.00",
+        "data": "2024-10-14T11:06",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@CAMILA A MELO FREITAS|@***.171.721-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "119.90",
+        "data": "2024-10-14T11:08",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Neusa Helena Borges Clemente|@***.808.131-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "258.00",
+        "data": "2024-10-14T11:15",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Amanda Alves da Silva|@***.602.051-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "7.00",
+        "data": "2024-10-14T11:30",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Loana de Souza Brito|@***.267.261-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "220.00",
+        "data": "2024-10-14T11:35",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@NOEMI SELMA DA SILVA PEREIRA GONCALVES|@***.111.851-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "131.24",
+        "data": "2024-10-14T12:34",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@JANYELE MEDEIROS DOS SANTOS|@***.463.841-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "717.00",
+        "data": "2024-10-14T12:36",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Cleide Damassena Marcal E Silva|@***.170.311-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "106.45",
+        "data": "2024-10-14T14:11",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARLENE BUENO DOS SANTOS|@***.640.821-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "54.97",
+        "data": "2024-10-14T14:11",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Cleuton Roberto Silva Morbeck Junior|@***.773.071-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "107.55",
+        "data": "2024-10-14T15:04",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@THATIELEN SILVA ALMEIDA|@***.867.011-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "9.30",
+        "data": "2024-10-14T15:13",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Alessandra Pereira dos Santos|@***.349.621-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "77.54",
+        "data": "2024-10-14T16:09",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@KEILA FERNANDA F OLIVEIRA|@***.859.631-**|@Atrevidinha  parc 26 09"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "140.00",
+        "data": "2024-10-14T16:41",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARLENE PEREIRA DE SOUSA|@***.218.141-**|@Atrevidinha"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "300.00",
+        "data": "2024-10-14T16:45",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "37730415000120",
+        "descInfComplementar": "Recebimento Pix|@37730415 Cledima Rosa Trindade|@37.730.415 0001-20|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "49.00",
+        "data": "2024-10-14T17:02",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Francyelle Silva dos Santos|@***.712.831-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "325.00",
+        "data": "2024-10-14T18:38",
+        "dataLote": "2024-10-14",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "46633733000164",
+        "descInfComplementar": "Recebimento Pix|@Ht Alves Solar Ltda|@46.633.733 0001-64|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "53.00",
+        "data": "2024-10-15T08:57",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@SONIA APARECIDA FREITAS|@***.199.911-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "51.62",
+        "data": "2024-10-15T09:13",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ELZINEIDE PINHEIRO DA COSTA|@***.639.111-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "260.98",
+        "data": "2024-10-15T09:30",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ELEN GUIMARAES S SIMMONDS|@***.794.571-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "592.78",
+        "data": "2024-10-15T09:30",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LIDIANA APARECIDA COGO|@***.712.851-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "193.21",
+        "data": "2024-10-15T09:32",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "47301207000160",
+        "descInfComplementar": "Recebimento Pix|@R V CARVALHO ME|@47.301.207 0001-60|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "86.00",
+        "data": "2024-10-15T10:08",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LETICIA STABILE LIMA|@***.684.901-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "178.78",
+        "data": "2024-10-15T10:17",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Mariana Coelho Reis|@***.473.861-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "427.20",
+        "data": "2024-10-15T10:24",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@REJANE DIAS DE SOUZA|@***.177.821-**|@Atrevidinha"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "122.00",
+        "data": "2024-10-15T11:10",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ADELICE R PARREIRA|@***.113.901-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "607.81",
+        "data": "2024-10-15T11:23",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@GRACIELA MEES DE ANDRADE|@***.818.991-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "174.00",
+        "data": "2024-10-15T11:40",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Vanessa Mendes De Oliveira Santos|@***.128.091-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "500.00",
+        "data": "2024-10-15T11:47",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.393.823-**|@Vale 10 24"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "185.00",
+        "data": "2024-10-15T12:10",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARIA JOSE TEIXEIRA|@***.626.001-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "235.00",
+        "data": "2024-10-15T12:32",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Bruna Barbosa Alves|@***.830.881-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "970.00",
+        "data": "2024-10-15T12:36",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@WILMAR GONCALVES FERREIRA|@***.037.241-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "400.00",
+        "data": "2024-10-15T13:29",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Rejane Alves dos Reis|@***.038.256-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "140.84",
+        "data": "2024-10-15T13:36",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LIA IRENE MONTEIRO|@***.885.571-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "44.70",
+        "data": "2024-10-15T13:49",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LIA IRENE MONTEIRO|@***.885.571-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "150.00",
+        "data": "2024-10-15T13:50",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@DAIANE MARTINS DOS SANTOS|@***.460.541-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "103.00",
+        "data": "2024-10-15T13:59",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Luana Costa Rodrigues|@***.963.941-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "355.50",
+        "data": "2024-10-15T14:21",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARCO AURELIO ZOCCAL|@***.081.338-**|@Tania Zoccal"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "208.81",
+        "data": "2024-10-15T14:56",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Elismaria Rosa dos Santos Lamounier|@***.161.281-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "211.47",
+        "data": "2024-10-15T15:14",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@KENETH BARROS SANTOS SILVA|@***.499.911-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "200.00",
+        "data": "2024-10-15T15:52",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.111.861-**|@vale 10 24"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "700.00",
+        "data": "2024-10-15T15:56",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.075.671-**|@Vale 10 24"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "300.00",
+        "data": "2024-10-15T15:57",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.822.101-**|@Vale 10 24"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "300.00",
+        "data": "2024-10-15T15:59",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.517.881-**|@Vale 10 24"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "200.00",
+        "data": "2024-10-15T16:00",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.208.891-**|@Vale 10 24"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "130.00",
+        "data": "2024-10-15T16:03",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "02110393000111",
+        "descInfComplementar": "Recebimento Pix|@ARAGUAIA EMPREENDIMENTOS LTDA|@02.110.393 0001-11|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "2.30",
+        "data": "2024-10-15T16:18",
+        "dataLote": "2024-10-15",
+        "descricao": "DÉBITO DEVOLUÇÃO PIX",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Devolução Pix|@***.233.101-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "42.00",
+        "data": "2024-10-15T16:24",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Nubia da Silva Castro|@***.908.151-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "626.00",
+        "data": "2024-10-15T17:01",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Adriana Colaco Ormeneze Santos|@***.758.101-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "206.08",
+        "data": "2024-10-15T17:03",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ROSANA DIAS DE CAMPOS|@***.562.301-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "208.70",
+        "data": "2024-10-15T17:14",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Paula Cristina Pereira dos Santos|@***.039.831-**|@Parcelas .. De 78..73..57,70"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "66.00",
+        "data": "2024-10-15T17:23",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ALEXSANDRA P S SOUZA|@***.401.801-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "224.18",
+        "data": "2024-10-15T17:47",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Dorca Oliveira da Cruz|@***.005.271-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "621.24",
+        "data": "2024-10-15T18:33",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ANA PAULA SOARES ATAIDES|@***.634.101-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "263.00",
+        "data": "2024-10-15T20:28",
+        "dataLote": "2024-10-15",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@WELLINGTON C P MARINHO|@***.308.411-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "315.00",
+        "data": "2024-10-16T06:12",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LUCILENE MODESTO DA SILVA|@***.464.241-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "39.95",
+        "data": "2024-10-16T09:30",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@CLAUDIA FERREIRA|@***.498.311-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "74.95",
+        "data": "2024-10-16T09:35",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@CLAUDIA FERREIRA|@***.498.311-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "1000.00",
+        "data": "2024-10-16T09:52",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@CINARA GRAZIELA FERREIRA|@***.415.359-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "35000.00",
+        "data": "2024-10-16T09:54",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX EMITIDO OUTRA IF - MESMA TIT.",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "00280549000187",
+        "descInfComplementar": "Pagamento Pix|@00.280.549 0001-87|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "110.00",
+        "data": "2024-10-16T10:28",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Kelma Aparecida Borges Alves|@***.792.811-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "133.87",
+        "data": "2024-10-16T10:48",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "00330813000140",
+        "descInfComplementar": "Recebimento Pix|@JOSE CARLOS DA SILVA E MORAES LT|@00.330.813 0001-40|@Pagt parcela 039"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "99.28",
+        "data": "2024-10-16T10:58",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ANA LAURA VALADAO OLIVEIRA|@***.351.021-**|@Pricenty"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "594.00",
+        "data": "2024-10-16T11:03",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Xayane da Silva Alves|@***.040.641-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "136.64",
+        "data": "2024-10-16T11:27",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARIA C SAENZ HERNANDEZ|@***.409.548-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "214.31",
+        "data": "2024-10-16T11:45",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Daniele Barbosa da Silva|@***.052.961-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "119.42",
+        "data": "2024-10-16T11:48",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Dayse Lana da Silva Correa|@***.508.341-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "181.07",
+        "data": "2024-10-16T11:55",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "24765209000104",
+        "descInfComplementar": "Recebimento Pix|@GABIANE DAMAS DA COSTA 03068793106|@24.765.209 0001-04|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "162.21",
+        "data": "2024-10-16T11:55",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@CYNARA VILELA MORAES|@***.001.481-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "200.00",
+        "data": "2024-10-16T12:04",
+        "dataLote": "2024-10-16",
+        "descricao": "TRANSF.REALIZADA PIX SICOOB",
+        "numeroDocumento": "6686771",
+        "cpfCnpj": "00280549000187",
+        "descInfComplementar": "FAV.: ASTEMAR ELETRONICA LTDA|@Transferência Pix|@ATREVIDINHA CALCADOS E CONFECCOES LTDA|@00.280.549 0001-87|@Mudanca sistema de ponto"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "230.00",
+        "data": "2024-10-16T15:03",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@RANDALA OLIVEIRA SOUSA ALVES|@***.953.281-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "200.00",
+        "data": "2024-10-16T15:05",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Gabryel Alves Barbosa|@***.505.391-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "211.00",
+        "data": "2024-10-16T15:21",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@DANIELY PATRICIO NOGUEIRA|@***.558.321-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "557.11",
+        "data": "2024-10-16T16:09",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@SAMILA DE LIMA REIS|@***.287.871-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "99.00",
+        "data": "2024-10-16T16:36",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@FRANCIELLY A A UTSUNOMYA|@***.989.701-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "3000.00",
+        "data": "2024-10-16T16:58",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.750.111-**|@Vale 10 24"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "472.98",
+        "data": "2024-10-16T17:36",
+        "dataLote": "2024-10-16",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@CRISTIANE REUB DA SILVA LIMA|@***.078.502-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "89.00",
+        "data": "2024-10-17T08:28",
+        "dataLote": "2024-10-17",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Thays Macedo Coutinho da Silva|@***.481.213-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "110.00",
+        "data": "2024-10-17T08:43",
+        "dataLote": "2024-10-17",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MAURO ESCOBAR|@***.686.271-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "104.70",
+        "data": "2024-10-17T08:49",
+        "dataLote": "2024-10-17",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@WALMIR ROSA DA SILVA|@***.671.231-**|@Primeira parcela"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "99.00",
+        "data": "2024-10-17T09:49",
+        "dataLote": "2024-10-17",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ADIEL NUNES DA SILVA|@***.111.451-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "706.00",
+        "data": "2024-10-17T09:50",
+        "dataLote": "2024-10-17",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ADIEL NUNES DA SILVA|@***.111.451-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "301.68",
+        "data": "2024-10-17T10:04",
+        "dataLote": "2024-10-17",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@JULIANE ANDREIA BRESSAN FERNANDES|@***.941.891-**|@Atrevidinha"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "142.00",
+        "data": "2024-10-17T10:34",
+        "dataLote": "2024-10-17",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Dayse Lana da Silva Correa|@***.508.341-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "467.00",
+        "data": "2024-10-17T11:26",
+        "dataLote": "2024-10-17",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "38373495000177",
+        "descInfComplementar": "Recebimento Pix|@Camila Rodrigues Da Silva|@38.373.495 0001-77|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "320.70",
+        "data": "2024-10-17T12:07",
+        "dataLote": "2024-10-17",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@BERENIZ VERONICA NUNES DA CUNHA|@***.122.561-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "81.00",
+        "data": "2024-10-17T13:16",
+        "dataLote": "2024-10-17",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Mauro Escobar|@***.686.271-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "595.00",
+        "data": "2024-10-17T13:52",
+        "dataLote": "2024-10-17",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@FRANCIANE CORDEIRO|@***.390.231-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "115.00",
+        "data": "2024-10-17T15:48",
+        "dataLote": "2024-10-17",
+        "descricao": "TRANSF.REALIZADA PIX SICOOB",
+        "numeroDocumento": "6691103",
+        "cpfCnpj": "00280549000187",
+        "descInfComplementar": "FAV.: IDLOG TRANSPORTE E LOGISTICA LTDA|@Transferência Pix|@ATREVIDINHA CALCADOS E CONFECCOES LTDA|@00.280.549 0001-87|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "510.00",
+        "data": "2024-10-17T17:00",
+        "dataLote": "2024-10-17",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LUANDA DAVID SILVA CAMPOS|@***.854.591-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "228.18",
+        "data": "2024-10-17T18:43",
+        "dataLote": "2024-10-17",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARIA PIEDADE DOS SANTOS|@***.882.971-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "727.50",
+        "data": "2024-10-17T19:52",
+        "dataLote": "2024-10-17",
+        "descricao": "TRANSF.RECEBIDA - PIX SICOOB",
+        "numeroDocumento": "6692110",
+        "cpfCnpj": "24118391000101",
+        "descInfComplementar": "REM.: L. C. MORZELLE LTDA|@Transferência Pix|@L. C. MORZELLE LTDA|@24.118.391 0001-01|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "49.00",
+        "data": "2024-10-18T08:57",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@CELIA BARBOSA LOPES|@***.842.801-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "175.00",
+        "data": "2024-10-18T09:25",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@DARCI MENDONCA DA MOTA|@***.379.071-**|@Compras"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "209.00",
+        "data": "2024-10-18T09:38",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LINDOMAR PEREIRA DE SOUZA|@***.797.601-**|@Pix para ATREVIDINHA MODAS"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "94.00",
+        "data": "2024-10-18T09:41",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@DENISE NOGUEIRA REZENDE|@***.485.671-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "102.81",
+        "data": "2024-10-18T10:19",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Marcia Nunes Da Silva|@***.998.081-**|@pago parcela 06 06"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "7443.54",
+        "data": "2024-10-18T10:25",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "00394460005887",
+        "descInfComplementar": "Pagamento Pix|@00.394.460 0058-87|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "3276.85",
+        "data": "2024-10-18T10:25",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "00360305000104",
+        "descInfComplementar": "Pagamento Pix|@00.360.305 0001-04|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "157.85",
+        "data": "2024-10-18T10:49",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "10573521000191",
+        "descInfComplementar": "Pagamento Pix|@10.573.521 0001-91|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "112.00",
+        "data": "2024-10-18T10:54",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Carlos Sousa Lima|@***.604.493-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "62.00",
+        "data": "2024-10-18T10:55",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Maria Candida Mendes|@***.109.651-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "86.00",
+        "data": "2024-10-18T10:56",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Carlos Sousa Lima|@***.604.493-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "20000.00",
+        "data": "2024-10-18T10:59",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX EMITIDO OUTRA IF - MESMA TIT.",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "00280549000187",
+        "descInfComplementar": "Pagamento Pix|@00.280.549 0001-87|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "180.40",
+        "data": "2024-10-18T11:05",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@SALETE PAVAN|@***.059.451-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "195.62",
+        "data": "2024-10-18T11:56",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARIA ANTONIA S FREITAS|@***.276.261-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "84.00",
+        "data": "2024-10-18T12:20",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Lorena Karoline de Oliveira|@***.851.311-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "141.00",
+        "data": "2024-10-18T13:18",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "46320497000126",
+        "descInfComplementar": "Recebimento Pix|@FERNANDA ABREU M ESTETICA|@46.320.497 0001-26|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "43.00",
+        "data": "2024-10-18T15:30",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "03015727000130",
+        "descInfComplementar": "Recebimento Pix|@Jakson Rodrigues Machado Ltda|@03.015.727 0001-30|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "120.00",
+        "data": "2024-10-18T16:33",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@SANDRA REGINA MARTINS LEAO LOPES|@***.300.201-**|@Uma bermuda clara"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "218.00",
+        "data": "2024-10-18T17:01",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@JESSICA MOREIRA NEVES DE SOUZA|@***.064.691-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "116.77",
+        "data": "2024-10-18T18:02",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LINDINALVA LOPES ROCHA NUNES|@***.751.581-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "100.00",
+        "data": "2024-10-18T18:04",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LINDINALVA LOPES ROCHA NUNES|@***.751.581-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "59.95",
+        "data": "2024-10-18T18:40",
+        "dataLote": "2024-10-18",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Eunice Rosa Trindade|@***.794.661-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "70.21",
+        "data": "2024-10-21T00:00",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@EUVANY ALVES PIMENTEL|@***.142.841-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "49.90",
+        "data": "2024-10-21T00:00",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@KTIANE ALVES PEREIRA|@***.450.451-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "79.00",
+        "data": "2024-10-21T00:00",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@PATRICIA CARNEIRO DE SOUZA|@***.944.661-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "74.95",
+        "data": "2024-10-21T00:00",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@KACIA REJANE DE ALMEIDA LIMA|@***.408.091-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "246.00",
+        "data": "2024-10-21T00:00",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "46320497000126",
+        "descInfComplementar": "Recebimento Pix|@FERNANDA ABREU M ESTETICA|@46.320.497 0001-26|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "44.04",
+        "data": "2024-10-21T00:00",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@KELLI OLIVEIRA TELES ALVES|@***.304.231-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "415.62",
+        "data": "2024-10-21T00:00",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ELIZABETH LUIZA DE ALMEIDA|@***.752.721-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "398.00",
+        "data": "2024-10-21T00:00",
+        "dataLote": "2024-10-21",
+        "descricao": "TRANSF.RECEBIDA - PIX SICOOB",
+        "numeroDocumento": "6696566",
+        "cpfCnpj": "47188002000110",
+        "descInfComplementar": "REM.: VALTON MARQUES DE BARROS JUNIOR LT|@Transferência Pix|@VALTON MARQUES DE BARROS JUNIOR LTDA|@47.188.002 0001-10|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "352.00",
+        "data": "2024-10-21T00:00",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@DIVINA NUNES DE SOUSA|@***.978.541-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "56.00",
+        "data": "2024-10-21T08:06",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Emilly Christiny Fernandes dos Santos|@***.177.321-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "189.70",
+        "data": "2024-10-21T08:17",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Aparecida Marques de Souza|@***.815.221-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "409.00",
+        "data": "2024-10-21T09:20",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@NORMA VALERIA JESUS SILVA|@***.310.771-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "54.00",
+        "data": "2024-10-21T09:35",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@GUIOMAR MACEDO DA SILVA|@***.286.691-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "146.90",
+        "data": "2024-10-21T10:15",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ROMYS SILVA SILVERIO|@***.282.171-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "24.00",
+        "data": "2024-10-21T10:33",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.545.781-**|@Estorno Pix feito errado"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "59.80",
+        "data": "2024-10-21T10:46",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@RAQUEL ROBERTO DA SILVA|@***.108.131-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "189.90",
+        "data": "2024-10-21T11:23",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@JACKELINE SILVA LUZ|@***.485.871-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "35.00",
+        "data": "2024-10-21T11:25",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Fernanda da Silva Ribeiro|@***.609.881-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "500.00",
+        "data": "2024-10-21T11:30",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@WEILLA PEREIRA SOUSA|@***.276.441-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "94.31",
+        "data": "2024-10-21T12:00",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "56936791000110",
+        "descInfComplementar": "Recebimento Pix|@Alynne Almeida Moura Ltda|@56.936.791 0001-10|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "280.95",
+        "data": "2024-10-21T12:34",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LUCIENE MOREIRA DA SILVA|@***.392.821-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "96.00",
+        "data": "2024-10-21T12:35",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@SIRLENE APARECIDA DA CUNHA SANTOS|@***.071.491-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "421.00",
+        "data": "2024-10-21T12:36",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LUCILENE NAVES DE OLIVEIRA|@***.208.061-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "386.70",
+        "data": "2024-10-21T12:37",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "07301164000106",
+        "descInfComplementar": "Recebimento Pix|@FREIOS E TACOGRAFOS VA ME|@07.301.164 0001-06|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "101.00",
+        "data": "2024-10-21T12:45",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Joseana do Nascimento|@***.054.461-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "1000.00",
+        "data": "2024-10-21T13:01",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@APARECIDA BRITO PONTES|@***.929.991-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "68.00",
+        "data": "2024-10-21T13:29",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LUCELIA CAMILO NASCIMENTO|@***.508.931-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "131.36",
+        "data": "2024-10-21T13:29",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARILENE OLIVEIRA DE MOURA|@***.604.706-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "312.00",
+        "data": "2024-10-21T13:43",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@CAMILA DE KASSIA SILVA CHAVES|@***.535.081-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "74.00",
+        "data": "2024-10-21T13:52",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LECI PEREIRA VIEIRA|@***.782.401-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "859.45",
+        "data": "2024-10-21T14:24",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "03201268000180",
+        "descInfComplementar": "Pagamento Pix|@03.201.268 0001-80|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "200.00",
+        "data": "2024-10-21T14:43",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Maiara da Silva Nascimento|@***.505.181-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "123.00",
+        "data": "2024-10-21T15:39",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Janyele Medeiros Dos Santos|@***.463.841-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "358.00",
+        "data": "2024-10-21T15:57",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Jaqueline Silva dos Santos|@***.921.171-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "1047.00",
+        "data": "2024-10-21T15:59",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LEIDE MARIANA NUNES DE OLIVEIRA SILVA|@***.258.576-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "281.00",
+        "data": "2024-10-21T17:09",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@APARECIDA BRITO PONTES|@***.929.991-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "193.00",
+        "data": "2024-10-21T17:18",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LEDA MARQUES S FERREIRA|@***.362.491-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "235.00",
+        "data": "2024-10-21T17:50",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "03097103000100",
+        "descInfComplementar": "Pagamento Pix|@03.097.103 0001-00|@Cafe"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "2790.00",
+        "data": "2024-10-21T18:08",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@NATHALIA BECKER SEIBERT|@***.437.061-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "128.00",
+        "data": "2024-10-21T20:22",
+        "dataLote": "2024-10-21",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@NARACI FERREIRA DA SILVA|@***.615.005-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "340.00",
+        "data": "2024-10-22T06:38",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARCELA ASSENCIO SILVA|@***.208.388-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "426.26",
+        "data": "2024-10-22T08:49",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@RENATA PATRICIA F SOUZA|@***.111.201-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "654.13",
+        "data": "2024-10-22T09:30",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "04067063000116",
+        "descInfComplementar": "Pagamento Pix|@04.067.063 0001-16|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "157.90",
+        "data": "2024-10-22T09:30",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "04067063000116",
+        "descInfComplementar": "Pagamento Pix|@04.067.063 0001-16|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "15000.00",
+        "data": "2024-10-22T09:33",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX EMITIDO OUTRA IF - MESMA TIT.",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "00280549000187",
+        "descInfComplementar": "Pagamento Pix|@00.280.549 0001-87|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "120.00",
+        "data": "2024-10-22T10:06",
+        "dataLote": "2024-10-22",
+        "descricao": "TRANSF.RECEBIDA - PIX SICOOB",
+        "numeroDocumento": "6704114",
+        "descInfComplementar": "REM.: KATIA NUBIA DE SOUZA CORREA|@Transferência Pix|@KATIA NUBIA DE SOUZA CORREA|@***.519.441-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "1562.50",
+        "data": "2024-10-22T10:08",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "41377891000187",
+        "descInfComplementar": "Pagamento Pix|@41.377.891 0001-87|@Entrada evento 30 anos"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "687.28",
+        "data": "2024-10-22T10:24",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARLENE S C BOECHAT|@***.654.870-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "228.00",
+        "data": "2024-10-22T10:53",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LILIA VERONICA S CAMARGO|@***.643.581-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "104.00",
+        "data": "2024-10-22T11:14",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Abiraneide Gomes Martins|@***.569.701-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "70.00",
+        "data": "2024-10-22T12:06",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ANA CELIA DE CARVALHO|@***.934.191-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "189.50",
+        "data": "2024-10-22T13:52",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@KELY APARECIDA DANTAS|@***.442.861-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "101.00",
+        "data": "2024-10-22T14:01",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@GRAZIELA BARBOZA VILARINHO ABREU|@***.995.991-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "400.00",
+        "data": "2024-10-22T15:19",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Aline Lopes Guerra|@***.071.311-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "135.06",
+        "data": "2024-10-22T15:30",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@KATIA AUXILIADORA BARBOSA LOPES|@***.669.391-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "104.40",
+        "data": "2024-10-22T15:43",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@GUILHERME THIAGO ANTONIO RAMALHO PINATO|@***.763.701-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "151.00",
+        "data": "2024-10-22T15:51",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Mariana Coelho Reis|@***.473.861-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "67.74",
+        "data": "2024-10-22T16:51",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@FLAVIA MARCIA DA CRUZ DIAS|@***.972.741-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "34.96",
+        "data": "2024-10-22T16:56",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@ROSANGELA DO NASCIMENTO SILVA RODRIGUES|@***.506.411-**|@"
+    },
+    {
+        "tipo": "DEBITO",
+        "valor": "60.00",
+        "data": "2024-10-22T17:02",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX EMITIDO OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Pagamento Pix|@***.778.431-**|@Carimbos"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "143.00",
+        "data": "2024-10-22T17:04",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "17987473000127",
+        "descInfComplementar": "Recebimento Pix|@G S SANTOS LTDA|@17.987.473 0001-27|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "65.90",
+        "data": "2024-10-22T17:10",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@LAZARA ADRIELLE BASTOS MORAES|@***.905.421-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "164.01",
+        "data": "2024-10-22T18:09",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Marcia Rodrigues de Sousa|@***.378.641-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "178.00",
+        "data": "2024-10-22T23:06",
+        "dataLote": "2024-10-22",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@KAROLYNE MESQUITA COELHO GUIMARAES|@***.190.881-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "441.50",
+        "data": "2024-10-23T08:23",
+        "dataLote": "2024-10-23",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@DENISE DA SILVA COUTO|@***.231.731-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "82.90",
+        "data": "2024-10-23T10:21",
+        "dataLote": "2024-10-23",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@GILVONE FURTADO MIGUEL|@***.492.631-**|@Pagando parcela 1 e 2 do carne"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "248.56",
+        "data": "2024-10-23T10:50",
+        "dataLote": "2024-10-23",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@IGOR ALVES REZENDE|@***.479.171-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "103.00",
+        "data": "2024-10-23T11:13",
+        "dataLote": "2024-10-23",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "cpfCnpj": "03015727000130",
+        "descInfComplementar": "Recebimento Pix|@Jakson Rodrigues Machado Ltda|@03.015.727 0001-30|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "59.00",
+        "data": "2024-10-23T11:22",
+        "dataLote": "2024-10-23",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@PAULA RITA ASSUNCAO MAIA VALADAO|@***.174.731-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "119.00",
+        "data": "2024-10-23T13:16",
+        "dataLote": "2024-10-23",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@Maria Aparecida Dias de Campos|@***.764.191-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "427.69",
+        "data": "2024-10-23T13:25",
+        "dataLote": "2024-10-23",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@KENIA NEGRI DA SILVA|@***.442.261-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "127.42",
+        "data": "2024-10-23T16:41",
+        "dataLote": "2024-10-23",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MAYLA LUANA SOUSA PIRES|@***.512.741-**|@"
+    },
+    {
+        "tipo": "CREDITO",
+        "valor": "90.00",
+        "data": "2024-10-23T16:46",
+        "dataLote": "2024-10-23",
+        "descricao": "PIX RECEBIDO - OUTRA IF",
+        "numeroDocumento": "Pix",
+        "descInfComplementar": "Recebimento Pix|@MARIA DIVINA OLIVEIRA ANDRADE|@***.269.301-**|@"
+    }
+]
